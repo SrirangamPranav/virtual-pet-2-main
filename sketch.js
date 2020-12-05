@@ -9,8 +9,8 @@ var value;
 var milkimg,milkbottle;
 function preload()
 {
-  dogimage = loadImage("dogimg.png");
-  dogimage2 = loadImage("dogimg1.png");
+  dogimage = loadImage("dogImg.png");
+  dogimage2 = loadImage("dogImg1.png");
   milkimg = loadImage("Milk.png");
 }
 
